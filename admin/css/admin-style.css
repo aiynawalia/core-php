@@ -1,0 +1,56 @@
+.admin-logo
+{
+    width:100px;
+}
+h3.logy
+{
+    color: #8b5c7e;
+    font-size:10px!important;
+}
+.alert-danger
+{
+    border:1px solid #842029!important;
+    background-color:transparent!important;
+}
+.alert-success
+{
+    border:1px solid #1c3f11!important;
+    background-color:transparent!important;
+}
+.text-theme-color
+{
+    color: #744e7d;
+}
+::-webkit-input-placeholder { /* Edge */
+    color: rgb(20, 39, 18)!important;
+  }
+  
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color:  rgb(20, 39, 18)!important;
+  }
+  
+  ::placeholder {
+    color:  rgb(20, 39, 18)!important;
+  }
+  .form-control
+  {
+      border:1px solid #000!important;
+  }
+.fgpass
+{
+	display:block!important;
+	text-align:left!important;
+}
+.et
+{
+	margin-top:20px!important;
+}
+span.user-name
+{
+    font-size:20px!important;
+    color:#842029!important;
+}
+.mm
+{
+	padding-bottom: 15px!important;
+}
